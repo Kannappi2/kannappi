@@ -1,6 +1,3 @@
-/*coded by ameer-kallumthodi
-https://youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw
-*/
 
 const Asena = require('../events');
 const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys');
